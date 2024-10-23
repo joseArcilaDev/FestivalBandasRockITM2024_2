@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practica4Recargado\\WebFestRock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|D:\\practica4Recargado\\WebFestRock\\webfestrock\\paginas\\frminicio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|solutionrelative:webfestrock\\paginas\\frminicio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|d:\\practica4recargado\\webfestrock\\webfestrock\\paginas\\scripts\\frmartista.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|solutionrelative:webfestrock\\paginas\\scripts\\frmartista.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|D:\\practica4Recargado\\WebFestRock\\webfestrock\\paginas\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|solutionrelative:webfestrock\\paginas\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|D:\\practica4Recargado\\WebFestRock\\webfestrock\\paginas\\scripts\\frminicio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|solutionrelative:webfestrock\\paginas\\scripts\\frminicio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|D:\\practica4Recargado\\WebFestRock\\webfestrock\\paginas\\scripts\\frminscrip.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|solutionrelative:webfestrock\\paginas\\scripts\\frminscrip.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|D:\\practica4Recargado\\WebFestRock\\webfestrock\\paginas\\scripts\\frmtipodoc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBD0F8CF-3C9E-4442-8867-CA6491A18662}|WebFestRock\\WebFestRock.csproj|solutionrelative:webfestrock\\paginas\\scripts\\frmtipodoc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.html",
+              "DocumentMoniker": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Menu.html",
+              "RelativeDocumentMoniker": "WebFestRock\\Paginas\\Menu.html",
+              "ToolTip": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Menu.html",
+              "RelativeToolTip": "WebFestRock\\Paginas\\Menu.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-22T22:48:26.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInicio.html",
+              "DocumentMoniker": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\frmInicio.html",
+              "RelativeDocumentMoniker": "WebFestRock\\Paginas\\frmInicio.html",
+              "ToolTip": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\frmInicio.html",
+              "RelativeToolTip": "WebFestRock\\Paginas\\frmInicio.html",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-22T22:47:02.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmInscrip.js",
+              "DocumentMoniker": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Scripts\\frmInscrip.js",
+              "RelativeDocumentMoniker": "WebFestRock\\Paginas\\Scripts\\frmInscrip.js",
+              "ToolTip": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Scripts\\frmInscrip.js",
+              "RelativeToolTip": "WebFestRock\\Paginas\\Scripts\\frmInscrip.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T22:46:45.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmInicio.js",
+              "DocumentMoniker": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Scripts\\frmInicio.js",
+              "RelativeDocumentMoniker": "WebFestRock\\Paginas\\Scripts\\frmInicio.js",
+              "ToolTip": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Scripts\\frmInicio.js",
+              "RelativeToolTip": "WebFestRock\\Paginas\\Scripts\\frmInicio.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T22:46:33.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmArtista.js",
+              "DocumentMoniker": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Scripts\\frmArtista.js",
+              "RelativeDocumentMoniker": "WebFestRock\\Paginas\\Scripts\\frmArtista.js",
+              "ToolTip": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Scripts\\frmArtista.js",
+              "RelativeToolTip": "WebFestRock\\Paginas\\Scripts\\frmArtista.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T22:46:28.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTipoDoc.js",
+              "DocumentMoniker": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Scripts\\frmTipoDoc.js",
+              "RelativeDocumentMoniker": "WebFestRock\\Paginas\\Scripts\\frmTipoDoc.js",
+              "ToolTip": "D:\\practica4Recargado\\WebFestRock\\WebFestRock\\Paginas\\Scripts\\frmTipoDoc.js",
+              "RelativeToolTip": "WebFestRock\\Paginas\\Scripts\\frmTipoDoc.js",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T22:32:21.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

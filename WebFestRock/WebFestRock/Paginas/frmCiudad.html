@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Maestro Ciudades </title>
+    <!-- Scripts Base Sup -->
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link href="Estilos/adminlte.min.css" rel="stylesheet" />
+    <link href="Estilos/all.min.css" rel="stylesheet" />
+    <!-- Select2 -->
+    <!--Estilos para las tablas(datatables)-->
+
+</head>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12" id="dvMenu">
+                    <!-- Para incrustar la página que contiene el ménu de navegación-->
+                </div>
+                <div class="col-md-12">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">Maestro de Ciudad </h3>
+                        </div>
+                        <form id="frmDatosIn">
+                            <div class="card-body">
+                                <div class="card card-gray-dark">
+                                    <div class="card-header">
+                                        <h3 class="card-title">Datos de Entrada</h3>
+                                    </div>
+
+                                    <div class="card-body">
+
+                                        <div class="row">
+                                            <!-- Inicio Row 1 de frmCiudad-->
+                                            <div class="col-md-2">
+                                                <!--inicio txt codigo de ciudad-->
+                                                <div class="form-group">
+                                                    <label for="txtCodigo">Código:</label>
+                                                    <input type="text" class="form-control" id="txtCodigo" width="15" placeholder="Ingrese Código...">
+                                                </div>
+                                            </div><!--fin text  codigo de ciudad-->
+                                            <div class="col-md-6">
+                                                <!-- inicio texto nombre-->
+                                                <div class="form-group">
+                                                    <label for="txtNombre">Nombre:</label>
+                                                    <input type="text" class="form-control" id="txtNombre" placeholder="Ingrese Nombre...">
+                                                </div>
+                                            </div> <!--fin texto nombre-->
+
+                                            <div class="col-md-4">
+                                                <!--Inicio selec combo box departamentos ciudad-->
+                                                <div class="form-group">
+                                                    <label for="cboDpto">Departamento</label>
+                                                    <select id="cboDpto" class="form-control">
+                                                        <option value="1">dep1</option>
+                                                        <option value="2">dep2</option>
+                                                        <option value="3">dep3</option>
+                                                        <option value="4">se llena desde base de datos</option>
+                                                    </select>
+                                                </div>
+                                            </div><!--Fin selec combo box departamentos ciudad-->
+                                        </div> <!-- Final del Row 1 frmCiudad -->
+                                        <!-- Acá para más rows para datos -->
+
+                                    </div>
+
+                                    <!-- Menú de Opciones -->
+                                    <div class="card-body">
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                <div class="form-group">
+                                                    <button type="button" id="btnAgre" class="btn-block btn-lg btn-primary">Agregar</button>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3">
+                                                <div class="form-group">
+                                                    <button type="button" id="btnModi" class="btn-block btn-lg btn-primary">Modificar</button>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <button type="button" id="btnBusc" class="btn-block btn-lg btn-primary">Buscar</button>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <button type="button" id="btnCanc" class="btn-block btn-lg btn-primary">Cancelar</button>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2">
+                                                <div class="form-group">
+                                                    <button type="button" id="btnImpr" class="btn-block btn-lg btn-primary">Impresión</button>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- Zona de Mensajes -->
+                                        <div class="card-footer">
+                                            <div id="dvMensaje" class=""></div>
+                                        </div>
+
+                                        <!-- Fin Menú de Opciones-->
+                                    </div>
+                                </div><!-- card card-gray-dark -->
+                                <!-- Acá row para la tabla -->
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <table id="tablaDatos" class="table table-bordered table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th></th>
+                                                    <th></th>
+                                                    <th></th>
+                                                    <th></th>
+
+                                                </tr>
+                                            </thead>
+                                        </table>
+                                    </div>
+                                </div>
+                                <!-- Fin row para la tabla -->
+
+                            </div>  <!-- /.card-body -->
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Para los script de uso -->
+    <script src="../Scripts/jquery-3.7.0.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <!-- Select2 -->
+    <!-- Tabla -->
+    <!--Librerías comunes de JavaScript para las Tablas -->
+    <!-- Impresión -->
+    <!-- Para el script de control del form -->
+    <script src="Scripts/frmCiudad.js"></script>
+    <script src="Scripts/paraDiseño.js"></script>
+</body>
+</html>

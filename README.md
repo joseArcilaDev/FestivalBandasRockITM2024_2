@@ -1,0 +1,1 @@
+este proyecto es parte de un proyecto universitario donde se simula un proyecto donde se nos pide que gestionemos un festival rock de forma web y se nos pide que sea we y api el backend esta escrito en C#.
